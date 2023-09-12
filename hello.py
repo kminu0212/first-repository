@@ -6,5 +6,3 @@ if __name__ == '__main__':
 def print_goodbye():
     print("GoodBye")
 
-if __name__ == '__main__':
-    print_goodbye():
