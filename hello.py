@@ -5,7 +5,8 @@ if __name__ == '__main__':
     print_hello()
 def print_goodbye():
     print("GoodBye")
+    print("goodbye")
 def print_hi():
     print("Hi")
-    
+
 
